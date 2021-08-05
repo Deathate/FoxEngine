@@ -1,0 +1,1 @@
+Some files are hidden in folder, use "chflags hidden\nohidden [file]" to enable
